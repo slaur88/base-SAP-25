@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("base c#moritio")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+7678f26be070c2baf4c9d590f021a12058cdb0fa")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+8ce31ca31897467174a651aa9312d65405de9b5f")]
 [assembly: System.Reflection.AssemblyProductAttribute("base c#moritio")]
 [assembly: System.Reflection.AssemblyTitleAttribute("base c#moritio")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
